@@ -1,4 +1,4 @@
-# Lauch the script
+### Start the script
 
 C:\>**mping.bat input_file.txt**
 ```
@@ -11,21 +11,24 @@ FAILED 192.168.1.20
 Task completed.
 Passed IP Addresses: passed_ips.txt
 Failed IP Addresses: failed_ips.txt
+```
 
-
-C:\>
-
+### Input File
+```
 C:\>more input_file.txt
 192.168.1.1
 192.168.1.185
 192.168.1.20
-
-
+```
+### Passed IP Addresses are in "passed_ips.txt"
+```
 C:\>more passed_ips.txt
 192.168.1.1
+```
 
+### Failed IP Addresses are in "failed_ips.txt"
+```
 C:\>more failed_ips.txt
 192.168.1.185
 192.168.1.20
-
-C:\>```
+```
