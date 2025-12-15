@@ -1,4 +1,5 @@
-'''C:\>**mping.bat input_file.txt**
+# Lauch the script
+```C:\>**mping.bat input_file.txt**
 Processing IP addresses from input_file.txt...
 
 PASSED 192.168.1.1
@@ -25,4 +26,4 @@ C:\>more failed_ips.txt
 192.168.1.185
 192.168.1.20
 
-C:\>'''
+C:\>```
